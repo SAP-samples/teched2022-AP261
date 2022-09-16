@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2022 session called AP2
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to Industry Cloud Solution, Agricultural Origination Portal.
 
 ## Requirements
 
