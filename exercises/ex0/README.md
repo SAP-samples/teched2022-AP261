@@ -1,13 +1,13 @@
-# Level 1 Heading
+# Agricultural Origination Portal
 
-In this exercise, you will...
+In this exercise, you will explore the "Origination Dashboard" of Agricultural Origination Portal
 
-## Level 2 Heading
+## Origination Dashboard
 
-After completing these steps you will have....
+After completing the activation of your account, click on the following link
 
 1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+<br>![](/exercises/ex0/images/Image1.png)
 
 2.	Insert this code.
 ``` abap
