@@ -1,4 +1,4 @@
-# Agricultural Origination Portal
+# SAP Agricultural Origination Portal
 
 In this exercise, you will explore the "Origination Dashboard" of SAP Agricultural Origination Portal
 
