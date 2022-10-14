@@ -6,18 +6,24 @@ In this exercise, you will explore the "Origination Dashboard" of Agricultural O
 
 After completing the activation of your account, click on the following link
 
-1.	Click here.
+1.	You will see the following Screen.
 <br>![](/exercises/ex0/images/Image1.png)
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+2.	Please click on the highlighted link, You will be redirected to AGoP Launchpad. You will see the tiles as shown in the image below:
+<br>![](/exercises/ex0/images/Image2.png)
+3. Click on "Origination Dashboard" tile. This will take you to the dashboard as shown below:
+<br>![](/exercises/ex0/images/Image3.png)
+4. You should be able to view the following cards:
+     a) Total Contracts Quantity
+     b) Total Contracts Open Quantity by Commodity
+     c) Contract Monitoring – Priced Quantity
+     d) Contract Monitoring – Delivered Quantity
+     e) Contract Monitoring – Settled Quantity
+     f) Total Contracts Quantity in Storage
+     g) Available Bids
+
+5. 
+
 ```
 
 ## Summary
