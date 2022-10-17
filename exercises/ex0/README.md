@@ -22,11 +22,13 @@ After completing the activation of your account, click on the following link
      f) Total Contracts Quantity in Storage
      g) Available Bids
 
-5. 
+5. Auto apply default filters 
+  a) On load of Farmer Portal Overview page, Active contracts filter to be set as Yes, and the UOM to be set as default user onboarding UOM. 
+  b)Contract quantities and the other data in the Farmer Portal Overview page is displayed in the default UOM. Uom Filter on the portal overview page is       set to default UOM value.
 
 ```
 
 ## Summary
 
-Now that you have ... 
+Now that you have loaded the Origination Dashboard
 Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
