@@ -1,18 +1,16 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Origination Portal
 
 In this exercise, we will create...
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
-After completing these steps you will have created...
+Pre-requisite:
+Valid user id and password
 
-1. Click here.
+1. Click on Origination Portal tile.
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+2.	
 
 
 
