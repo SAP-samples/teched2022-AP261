@@ -1,16 +1,26 @@
-# Exercise 1 - Origination Portal
+# Exercise 1 - Origination Portal - Contracts
 
-In this exercise, we will create...
+In this exercise, we will review the:
+1. Total Contracts Quantity
+2. Total Contracts Open Quantity by Commodity
+3. Contract Monitoring – Priced Quantity
+4. Contract Monitoring – Delivered Quantity
+5. Contract Monitoring – Settled Quantity
 
-## Exercise 1.1 Sub Exercise 1 Description
+
+## Exercise 1.1 Check the Contracts information
 
 Pre-requisite:
-Valid user id and password
+Valid user id and password, Business Partner assigned to your user
 
-1. Click on Origination Portal tile.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+1. Review Total Contracts Quantity. You should be able to view open, Delivered and Unsettled, Settled and Unpaid, Paid for each commodity
+<br>![](/exercises/ex1/images/Image1.png)
 
-2.	
+2. Filter based on contract number and check the quantities for each of the types.
+3. Click on the "Open" quantity bar and navigate to "Manage Contracts" application
+4. Filters on the Dashboard should be passed on the "Manage Contracts" application
+5. Additionally, status filter should be defaulted to "Open"
+6. All the contracts with "Open" quantity for Business Partner assigned to your user.
 
 
 
