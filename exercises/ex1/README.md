@@ -14,7 +14,7 @@ Pre-requisite:
 Valid user id and password, Business Partner assigned to your user
 
 1. Review Total Contracts Quantity. You should be able to view open, Delivered and Unsettled, Settled and Unpaid, Paid for each commodity
-<br>![](/exercises/ex1/images/Image1.png)
+<br>![](/exercises/ex1/images/Ex1_Image1.png)
 
 2. Filter based on contract number and check the quantities for each of the types.
 3. Click on the "Open" quantity bar and navigate to "Manage Contracts" application
