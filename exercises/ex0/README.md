@@ -4,7 +4,7 @@ In this exercise, you will explore the "Origination Dashboard" of SAP Agricultur
 
 ## Origination Dashboard
 
-After completing the activation of your account, click on the following link
+After completing the activation of your account, click on the following link 
 
 1.	You will see the following Screen.
 <br>![](/exercises/ex0/images/Image1.png)
