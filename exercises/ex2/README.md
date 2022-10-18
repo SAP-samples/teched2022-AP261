@@ -1,19 +1,18 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Storage
 
-In this exercise, we will create...
+In this exercise, we will review storage/comingled stocks
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 Review Storage/Comingled quantity information through Dashboard Card
 
-After completing these steps you will have created...
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+1. Review Total Quantity in Storage Card. You should be able to view storage quantity for each commodity
+<br>![](/exercises/ex2/images/Ex_2_1_Image.png)
 
+2.	Filter based on Commodity and check the quantity.
+3.  Click on the card header to navigate to "Manage Delivery Assignments" app to verify the quantity displayed on Dashboard.
+4.  "Storage Indicator" filter should be auto applied in the app.
+<br>![](/exercises/ex2/images/Ex_2_1_2_Image.png)
 
 
 ## Exercise 2.2 Sub Exercise 2 Description
