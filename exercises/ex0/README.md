@@ -13,7 +13,7 @@ link.
 
 3. Please click on the activation link and proceed to setup the password and click on 'Save'. Clik on 'Continue' in the next screen. You will be redirected to following screen.
 
-<br>![](/exercises/ex0/images/img0.png)
+<br>![](/exercises/ex0/images/image01.png)
 
 
 
