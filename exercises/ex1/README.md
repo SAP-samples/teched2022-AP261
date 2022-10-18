@@ -14,7 +14,7 @@ Pre-requisite:
 Valid user id and password, Business Partner assigned to your user
 
 1. Review Total Contracts Quantity. You should be able to view "Open", "Delivered and Unsettled", "Settled and Unpaid" and "Paid" quantity for each commodity
-<br>![](/exercises/ex1/images/Ex1_Image1.png)
+<br>![](/exercises/ex1/images/Ex_1_1_Image.png)
 
 2. Filter based on contract number and check the quantities for each of the types.
 3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
@@ -30,7 +30,7 @@ Valid user id and password, Business Partner assigned to your user
 ## Exercise 1.2 Review "Total Open Contracts Quantity by Commodity" information through Dashboard Card
 
 1. Review Total Open Contracts Quantity by Commodity. You should be able to view "Open" quantity by commodity
-<br>![](/exercises/ex1/images/Ex1_Image1.png)
+<br>![](/exercises/ex1/images/Ex_1_2_Image.png)
 
 2. Filter based on commodity and check the quantities for each of the types.
 3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
