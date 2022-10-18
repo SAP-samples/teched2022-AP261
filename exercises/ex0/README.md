@@ -4,19 +4,13 @@ In this exercise, you will explore the "Origination Dashboard" of SAP Agricultur
 
 ## Origination Dashboard
 
-1. As a prerequisite, please share your email id with the host to create your user and to give access to the application.
+1.   As a prerequisite, please share your email id with the host to create your user and to give access to the application.
 
+2.   once your user is created by host, you would recieve an activation mail from SAP IAS which contains a link to activate your user along the 
+     application link.
 
-2. once your user is created by host, you would recieve an activation mail from SAP IAS which contains a link to activate your user along the application
-link.
-
-
-3. Please click on the activation link and proceed to setup the password and click on 'Save'. Clik on 'Continue' in the next screen. You will be redirected to following screen.
-
+3.   Please click on the activation link and proceed to setup the password and click on 'Save'. Clik on 'Continue' in the next screen. You will be redirected to following screen.
 <br>![](/exercises/ex0/images/image01.png)
-
-
-
 
 
 
