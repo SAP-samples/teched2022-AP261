@@ -20,11 +20,11 @@ In this exercise, you will explore the "Origination Dashboard" of SAP Agricultur
 <br>![](/exercises/ex0/images/Image3.png)
 
 ```
-Note that the reason for showing zero's in all the tiles is due to the fact that there is no business patner is mapped to 
+Note that the reason for showing zero's in all the tiles is due to the fact that there is no business partner mapped to 
 your user at this point. Please inform host after this step so that he/she will assign the business pather to you user.
 ```
 
-6.   Once the business patner/s is mapped your user, please refresh the screen of relogin to application so that you can see the count in 
+6.   Once the business partner/s is mapped to your user, please refresh the logon screen to re-launch the application to see the count in 
      all the tiles as shown below.     
 <br>![](/exercises/ex0/images/Image4.png)
 
@@ -42,7 +42,7 @@ your user at this point. Please inform host after this step so that he/she will 
 
 8. Auto apply default filters 
   a) On load of Farmer Portal Overview page, Active contracts filter to be set as Yes, and the UOM to be set as default user onboarding UOM. 
-  b)Contract quantities and the other data in the Farmer Portal Overview page is displayed in the default UOM. Uom Filter on the portal overview page is       set to default UOM value.
+  b) Contract quantities and the other data in the Farmer Portal Overview page is displayed in the default UOM. Uom Filter on the portal overview page is       set to default UOM value.
 
 ```
 
