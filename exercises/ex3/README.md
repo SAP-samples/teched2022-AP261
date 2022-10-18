@@ -1,20 +1,31 @@
-# Exercise 2 - Storage
+# Exercise 2 - Available Bids
 
-In this exercise, we will review storage/comingled stocks
+In this exercise, we will review Available Bids and convert them into a contract
 
-## Exercise 2.1 Review Storage/Comingled quantity information through Dashboard Card
+## Exercise 2.1 Review "Available Bids" Card 
 
 
 
-1. Review Total Quantity in Storage Card. You should be able to view storage quantity for each commodity
-<br>![](/exercises/ex2/images/Ex_2_1_Image.png)
+1. Review Available Bids Card in the Origination Dashboard
+<br>![](/exercises/ex2/images/Ex_3_1_Image.png)
 
-2.	Filter based on Commodity and check the quantity.
-3.  Click on the card header to navigate to "Manage Delivery Assignments" app to verify the quantity displayed on Dashboard.
-4.  "Storage Indicator" filter should be auto applied in the app.
-<br>![](/exercises/ex2/images/Ex_2_1_1_Image.png)
+2.	You can filter Bids based on Delivery period, Commodity, and Material. You can also view the information in different Unit of Measures configured for your Business partner.
+3.  Click on the card header to navigate to "Manage Bids" app to verify the Bids displayed on Dashboard.
+4.  All the filters from Dashboard should be pre-populated in the app.
+<br>![](/exercises/ex2/images/Ex_3_1_1_Image.png)
 
-5. Click on the delivery and view the details of Quality, QUality Volume Adjustments, Tolerance Evaluation, Storage, Warehouse and Settlements.
+5. View the Bid details by clicking on the Bid.
+6. CLick on "Request Contract" button on top right corner.
+7. Create contract screen will appear.
+<br>![](/exercises/ex2/images/Ex_3_1_2_Image.png)
+8. Quantity should be editable for the contract item.
+9. Provide the quantity that you intend to convert to contract.
+10. Click on "Save" button at the bottom right corner.
+11. Contract creation requested message should appear on screen.
+12. Bid will move to "Requested" status.
+13. WIthin few minutes Bid will move to approved status on the list page.
+14. From personalization, select contract field to be displayed on the Bid List page.
+15. Click on teh contract number and validate the data from the Bid.
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
