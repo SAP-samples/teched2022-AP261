@@ -12,7 +12,7 @@ In this exercise, we will review storage/comingled stocks
 2.	Filter based on Commodity and check the quantity.
 3.  Click on the card header to navigate to "Manage Delivery Assignments" app to verify the quantity displayed on Dashboard.
 4.  "Storage Indicator" filter should be auto applied in the app.
-<br>![](/exercises/ex2/images/Ex_2_1_2_Image.png)
+<br>![](/exercises/ex2/images/Ex_2_1_1_Image.png)
 
 
 ## Exercise 2.2 Sub Exercise 2 Description
