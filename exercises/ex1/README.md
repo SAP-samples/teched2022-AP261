@@ -8,41 +8,45 @@ In this exercise, we will review the:
 5. Contract Monitoring – Settled Quantity
 
 
-## Exercise 1.1 Check the Contracts information
+## Exercise 1.1 Review "Total Contracts QUantity" information through Dashboard Card
 
 Pre-requisite:
 Valid user id and password, Business Partner assigned to your user
 
-1. Review Total Contracts Quantity. You should be able to view open, Delivered and Unsettled, Settled and Unpaid, Paid for each commodity
+1. Review Total Contracts Quantity. You should be able to view "Open", "Delivered and Unsettled", "Settled and Unpaid" and "Paid" quantity for each commodity
 <br>![](/exercises/ex1/images/Ex1_Image1.png)
 
 2. Filter based on contract number and check the quantities for each of the types.
-3. Click on the "Open" quantity bar and navigate to "Manage Contracts" application
-4. Filters on the Dashboard should be passed on the "Manage Contracts" application
-5. Additionally, status filter should be defaulted to "Open"
-6. All the contracts with "Open" quantity for Business Partner assigned to your user.
+3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
+4. Contract filter should be auto applied in the app. 
+5. Click on back to navigate to Dashboard.
+6. Click on the "Delivered and Unsettled" quantity bar and navigate to "Manage Contracts" application
+5. Filters on the Dashboard should be passed on the "Manage Contracts" application
+6. Additionally, status filter should be defaulted to "Delivered and Unsettled"
+7. All the contracts with "Open" quantity for Business Partner assigned to your user.
 
 
 
-## Exercise 1.2 Sub Exercise 2 Description
+## Exercise 1.2 Review "Total Open Contracts Quantity by Commodity" information through Dashboard Card
 
-After completing these steps you will have...
+1. Review Total Open Contracts Quantity by Commodity. You should be able to view "Open" quantity by commodity
+<br>![](/exercises/ex1/images/Ex1_Image1.png)
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+2. Filter based on commodity and check the quantities for each of the types.
+3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
+4. Commodity filter should be auto applied in the app. 
+5. Try other filters on the application and verify the results.
 
-```
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+## Exercise 1.3 Review Contract Monitoring Cards
 
+1. There are 3 Contract Monitoring card, namely Priced Quantity, Delivered Quantity and Settled Quantity
+<br>![](/exercises/ex1/images/Ex_1_3_Image.png)
+
+2. Filter based on Contract Number and check all the three cards.
+3. Priced Quantity Card should show the Flat Priced quantity against the total contract item quantity
+4. Delivered Quantity Card should show the Delivered quantity against the total contract item quantity
+5. Settled Quantity Card should show the Settled quantity against the total contract item quantity.
 
 ## Summary
 
