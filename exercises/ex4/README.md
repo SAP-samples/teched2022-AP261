@@ -1,52 +1,40 @@
-# Exercise 1 - Origination Portal - Contracts
+# Exercise 4 - Origination Portal - Price Futures for Contracts
 
 In this exercise, we will review the:
-1. Total Contracts Quantity
-2. Total Contracts Open Quantity by Commodity
-3. Contract Monitoring – Priced Quantity
-4. Contract Monitoring – Delivered Quantity
-5. Contract Monitoring – Settled Quantity
+1. Contract Monitoring – Priced Quantity
+2. Price Futures component of Contracts
+
 
 
 ## Exercise 4.1 Review Priced Quantity and Price the Futures for unpriced quantity
 
-Pre-requisite:
-Valid user id and password, Business Partner assigned to your user
 
-1. Review Total Contracts Quantity. You should be able to view "Open", "Delivered and Unsettled", "Settled and Unpaid" and "Paid" quantity for each commodity
-<br>![](/exercises/ex1/images/Ex_1_1_Image.png)
+1. Contract Monitoring – Priced Quantity. You should be able to view FLAT Priced quantity of the contract versus total contract item quantity.
+<br>![](/exercises/ex1/images/Ex_4_1_Image.png)
 
-2. Filter based on contract number and check the quantities for each of the types.
-3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
+2. Filter based on contract number and check the priced quantity.
+3. Click on the contract to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
 4. Contract filter should be auto applied in the app. 
-5. Click on back to navigate to Dashboard.
-6. Click on the "Delivered and Unsettled" quantity bar and navigate to "Manage Contracts" application
-5. Filters on the Dashboard should be passed on the "Manage Contracts" application
-6. Additionally, status filter should be defaulted to "Delivered and Unsettled"
-7. All the contracts with "Open" quantity for Business Partner assigned to your user.
+5. 
 
 
 
 ## Exercise 4.2 Review "Total Open Contracts Quantity by Commodity" information through Dashboard Card
 
 1. Review Total Open Contracts Quantity by Commodity. You should be able to view "Open" quantity by commodity
-<br>![](/exercises/ex1/images/Ex_1_2_Image.png)
+<br>![](/exercises/ex1/images/Ex_4_2_Image.png)
 
-2. Filter based on commodity and check the quantities for each of the types.
-3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
-4. Commodity filter should be auto applied in the app. 
-5. Try other filters on the application and verify the results.
+2. 
 
 
 ## Exercise 4.3 Review Contract Monitoring Cards
 
 1. There are 3 Contract Monitoring card, namely Priced Quantity, Delivered Quantity and Settled Quantity
-<br>![](/exercises/ex1/images/Ex_1_3_Image.png)
+<br>![](/exercises/ex1/images/Ex_4_3_Image.png)
 
 2. Filter based on Contract Number and check all the three cards.
 3. Priced Quantity Card should show the Flat Priced quantity against the total contract item quantity
-4. Delivered Quantity Card should show the Delivered quantity against the total contract item quantity
-5. Settled Quantity Card should show the Settled quantity against the total contract item quantity.
+4. 
 
 ## Summary
 
