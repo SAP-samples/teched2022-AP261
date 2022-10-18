@@ -16,11 +16,12 @@ In this exercise, you will explore the "Origination Dashboard" of SAP Agricultur
      with the logon.
 <br>![](/exercises/ex0/images/Image2.png)
 
-5.   On successfull logon, you will be redirected to the AGOP launchpad and load all the tiles as shown in the image below.
+5.   On successfull logon, you will be redirected to the AGOP launchpad and you will all the tiles as shown in the image below.
 <br>![](/exercises/ex0/images/Image3.png)
 
 ```
-Note that the reason for showing zero's in all the tiles is due to the fact that there is no business patner is mapped to your user at this point. Please inform host after this step so that he/she will assign the business pather to you user.
+Note that the reason for showing zero's in all the tiles is due to the fact that there is no business patner is mapped to 
+your user at this point. Please inform host after this step so that he/she will assign the business pather to you user.
 ```
 
 6.   Once the business patner/s is mapped your user, please refresh the screen of relogin to application so that you can see the count in 
