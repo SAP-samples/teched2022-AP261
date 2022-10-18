@@ -14,6 +14,7 @@ In this exercise, we will review storage/comingled stocks
 4.  "Storage Indicator" filter should be auto applied in the app.
 <br>![](/exercises/ex2/images/Ex_2_1_1_Image.png)
 
+5. Click on the delivery and view the details of Quality, QUality Volume Adjustments, Tolerance Evaluation, Storage, Warehouse and Settlements.
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
