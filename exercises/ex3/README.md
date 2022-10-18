@@ -1,8 +1,8 @@
-# Exercise 2 - Available Bids
+# Exercise 3 - Available Bids
 
 In this exercise, we will review Available Bids and convert them into a contract
 
-## Exercise 2.1 Review "Available Bids" Card 
+## Exercise 3.1 Review "Available Bids" Card 
 
 
 
@@ -28,7 +28,7 @@ In this exercise, we will review Available Bids and convert them into a contract
 14. From personalization, select contract field to be displayed on the Bid List page.
 15. Click on teh contract number and validate the data from the Bid.
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 3.2 Sub Exercise 2 Description
 
 After completing these steps you will have...
 
