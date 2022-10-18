@@ -11,7 +11,13 @@ In this exercise, you will explore the "Origination Dashboard" of SAP Agricultur
 link.
 
 
-3. Please click on the activation link and proceed to setup the password.
+3. Please click on the activation link and proceed to setup the password and click on 'Save'. Clik on 'Continue' in the next screen. You will be redirected to following screen.
+
+<br>![](/exercises/ex0/images/img0.png)
+
+
+
+
 
 
 After completing the activation of your account, click on the following link
