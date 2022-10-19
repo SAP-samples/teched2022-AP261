@@ -1,6 +1,6 @@
 # Exercise 2 - Storage
 
-In this exercise, we will review storage/comingled stocks
+In this exercise, As a Farmer/Grower, I have stored the produce in Agri Company's warehouse. Now i want to review the "Total Quantity in Storage by Commodity"
 
 ## Exercise 2.1 Review Storage/Comingled quantity information through Dashboard Card
 
@@ -14,26 +14,9 @@ In this exercise, we will review storage/comingled stocks
 4.  "Storage Indicator" filter should be auto applied in the app.
 <br>![](/exercises/ex2/images/Ex_2_1_1_Image.png)
 
-5. Click on the delivery and view the details of Quality, QUality Volume Adjustments, Tolerance Evaluation, Storage, Warehouse and Settlements.
+5. Click on the delivery and view the details of Quality, Quality Volume Adjustments, Tolerance Evaluation, Storage, Warehouse and Settlements. 
+6. Additionally, you can navigate back to list page and click on the contract number to view the details of the contract linked to this delivery.
 
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
