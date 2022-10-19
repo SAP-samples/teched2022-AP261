@@ -29,7 +29,7 @@ In this exercise, As a Farmer/Grower, I want to review the available bids publis
 
 ## Summary
 
-You've now ...
+You've now explored the Available Bids published by Agri Companies and how they can be converted to a Contract if you decide to do so.
 
-Continue to - [Exercise 4 - Excercise 4 ](../ex4/README.md)
+Continue to - [Exercise 4 - Excercise 4 ](../ex4/README.md) to Price the Futures Component for Contract.
 
