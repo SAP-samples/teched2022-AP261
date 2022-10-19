@@ -34,9 +34,10 @@ https://teched2022-ap261.integrationsuite-it-aiat001.cfapps.us10.hana.ondemand.c
   
 [OPTIONAL]
 5. Create and Deploy a new flow to update contracts data from ACM S/4HANA to AOP:
+
 	* Create a new package: ID_ACM_to_AOP
 	
-	* Copy the iflow from the existing flow: Sample_Contracts_Update in package Sample_ACM_to_AOP to your package created in previous step. Name the iflow as     ID_ACM_to_AOP.
+	* Copy the iflow from the existing flow: Sample_Contracts_Update in package Sample_ACM_to_AOP to your package created in previous step. Name the 	   iflow as ID_ACM_to_AOP.
 
 	
 	* Configure the URL for ACM Contracts in the HTTP adaptor: Get Contract from S/4HANA 
