@@ -3,7 +3,7 @@
 In this exercise, As a Farmer/Grower, I would want to price the Futures component of the contract based on the market prices.
 
 
-## Exercise 4.2 Price Futures component of the contract
+## Exercise 4.1 Price Futures component of the contract
 
 1. In Manage Contracts app click on the contract number and go to the details page.
 <br>![](/exercises/ex1/images/Ex_4_2_Image.png)
@@ -31,4 +31,4 @@ In this exercise, As a Farmer/Grower, I would want to price the Futures componen
 
 You've now established Futures price for Contracts as a Farmer.
 
-Continue to - [Exercise 5 - Exercise 5 Description](../ex2/README.md)
+Continue to - [Exercise 5 - Exercise 5 Description](../ex2/README.md) to explore the Integration Content for Agricultural Origination Portal.
