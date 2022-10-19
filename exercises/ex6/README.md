@@ -6,7 +6,7 @@ During this exercise, you will explore on the following aspects.
 
 * API's avialable
 * CURD operations supported by each API
-* Specification of each API such Request and Response payload structure, filters etc.,
+* Specification of each API such Request and Response payload structure, semantics, filters, parameters etc.,
 
 
 1. Open 'https://api.sap.com'. You will see the following screen.
