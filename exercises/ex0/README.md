@@ -1,6 +1,6 @@
 # SAP Agricultural Origination Portal
 
-In this exercise, you will explore the "Origination Dashboard" of SAP Agricultural Origination Portal
+In this exercise, you will logon to the SAP Agricultural Origination Portal.
 
 ## Origination Dashboard
 
@@ -49,4 +49,4 @@ your user at this point. Please inform host after this step so that he/she will 
 ## Summary
 
 Now that you have loaded the Origination Dashboard
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md) explore the capabilities of Origination Dashboard.
