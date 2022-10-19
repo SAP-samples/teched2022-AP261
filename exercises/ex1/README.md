@@ -25,10 +25,10 @@ Valid user id and password, Business Partner assigned to your user
 <br>![](/exercises/ex1/images/Ex_1_1_2_Image.png)
 
 6. Select the contract with "Delivered and Unsettled" quantity and click on "View Deliveries" button.
-<br>![](/exercises/ex1/images/Ex_1_1_3_Image.png)
+<br>![](/exercises/ex1/images/Ex_1_1_4_Image.png)
 
 7. Click on the delivery and you will be navigated to "Manage Delivery Assignments" app with Delivery details.
-<br>![](/exercises/ex1/images/Ex_1_1_4_Image.png)
+<br>![](/exercises/ex1/images/Ex_1_1_3_Image.png)
 
 
 ## Exercise 1.2 Review "Total Open Contracts Quantity by Commodity" information through Dashboard Card
