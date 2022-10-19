@@ -18,20 +18,16 @@ Valid user id and password, Business Partner assigned to your user
 1. Review "Total Contracts Quantity". You should be able to view "Open", "Delivered and Unsettled", "Settled and Unpaid" and "Paid" quantity for each commodity
 <br>![](/exercises/ex1/images/Ex_1_1_1_Image.png)
 
-2. Filter based on contract number and check the quantities for each of the types.
-3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
-4. Contract filter should be auto applied in the app. 
-5. Click on back to navigate to Dashboard.
-6. Click on the "Delivered and Unsettled" quantity bar and navigate to "Manage Contracts" application
-5. Filters on the Dashboard should be passed on the "Manage Contracts" application
-6. Additionally, status filter should be defaulted to "Delivered and Unsettled"
-7. All the contracts with "Delivered and Unsettled" quantity for Business Partner assigned to your user.
+2. Click on the "Delivered and Unsettled" quantity bar and navigate to "Manage Contracts" application
+3. Filters on the Dashboard should be passed on the "Manage Contracts" application
+4. Additionally, status filter should be defaulted to "Delivered and Unsettled"
+5. All the contracts with "Delivered and Unsettled" quantity for Business Partner assigned to your user.
 <br>![](/exercises/ex1/images/Ex_1_1_2_Image.png)
 
-8. Select the contract with "Delivered and Unsettled" quantity and click on "View Deliveries" button.
+6. Select the contract with "Delivered and Unsettled" quantity and click on "View Deliveries" button.
 <br>![](/exercises/ex1/images/Ex_1_1_3_Image.png)
 
-9. Click on the delivery and you will be navigated to "Manage Delivery Assignments" app with Delivery details.
+7. Click on the delivery and you will be navigated to "Manage Delivery Assignments" app with Delivery details.
 <br>![](/exercises/ex1/images/Ex_1_1_4_Image.png)
 
 
