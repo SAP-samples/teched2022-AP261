@@ -6,14 +6,14 @@ This repository contains the material for the SAP TechEd 2022 session called AP2
 
 ## Overview
 
-SAP Agricultural Origination Portal solution enables efficient collaboration between agricultural companies and their farmers by providing them visibility into various aspects of their commercial business. Through hands-on experience focused on Functional and Integration aspects see how Farmers are going to benefit from the applications. This session also touches upon the integration and APIs which can be leveraged to integrate with Non-SAP or Non S/4HANA systems with Agricultural Origination Portal.
+SAP Agricultural Origination Portal solution enables efficient collaboration between agricultural companies and their farmers by providing them visibility into various aspects of their commercial business. Through hands-on experience focused on Functional and Integration aspects see how Farmers are going to benefit from the application. This session also touches upon the integration aspects and APIs which can be leveraged to integrate with Non-SAP or Non S/4HANA systems with SAP Agricultural Origination Portal.
 
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
-- Basic knowhow about the Agri Business and related products like Agricultural COntract Management on S/4HANA
+- Basic knowhow about the Agri Business or related products like Agricultural Contract Management on S/4HANA
 - Basic understanding of Cloud Solutions
-- [Optional]Basic understanding of integration/middleware concepts
+- [Optional] Basic understanding of integration/middleware concepts
 
 ## Exercises
 
