@@ -48,4 +48,5 @@ https://teched2022-ap261.integrationsuite-it-aiat001.cfapps.us10.hana.ondemand.c
 Summary
 You've now explored the event driven integration architecture of SAP Agricultural Origination Portal.
 
-Continue to - Exercise 6
+Continue to - Exercise 6 https://github.com/SAP-samples/teched2022-AP261/tree/main/exercises/ex6
+
