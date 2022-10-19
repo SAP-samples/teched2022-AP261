@@ -32,6 +32,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 4 - Origination Portal - Price Futures for Contracts](exercises/ex4/)
     - [Exercise 4.1 - Price Futures component of the contract](exercises/ex4#exercise-41-sub-exercise-1-description)
     - [Exercise 4.2 - Review Contract Monitoring Cards](exercises/ex4#exercise-42-sub-exercise-2-description)
+    
+- [Exercise 5 - Explore Agricultural Origination Portal Integration Aspects](exercises/ex5/)
 
 - [Exercise 6 - Explore Agricultural Origination Portal Public API's](exercises/ex6/)
 
