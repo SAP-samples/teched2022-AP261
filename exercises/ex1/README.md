@@ -49,6 +49,15 @@ Valid user id and password, Business Partner assigned to your user
 4. Delivered Quantity Card should show the Delivered quantity against the total contract item quantity
 5. Settled Quantity Card should show the Settled quantity against the total contract item quantity.
 
+## Exercise 1.4 Review Contract Monitoring - Settled Quantities
+
+1. Contract Monitoring card, Settled Quantity
+<br>![](/exercises/ex1/images/Ex_1_3_Image.png)
+
+2. Filter based on Contract Number and check the settled quantity.
+3. Priced Quantity Card should show the Flat Priced quantity against the total contract item quantity
+4. Delivered Quantity Card should show the Delivered quantity against the total contract item quantity
+5. Settled Quantity Card should show the Settled quantity against the total contract item quantity.
 ## Summary
 
 You've now ...
