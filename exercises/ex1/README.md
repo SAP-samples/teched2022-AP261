@@ -1,6 +1,6 @@
-# Exercise 1 - Origination Portal - Contracts
+# Exercise 1 - Origination Portal - View Contracts
 
-In this exercise, we will review the:
+In this exercise, we will review the following cards on dashboard:
 1. Total Contracts Quantity
 2. Total Contracts Open Quantity by Commodity
 3. Contract Monitoring – Priced Quantity
@@ -8,7 +8,7 @@ In this exercise, we will review the:
 5. Contract Monitoring – Settled Quantity
 
 
-## Exercise 1.1 Review "Total Contracts QUantity" information through Dashboard Card
+## Exercise 1.1 Review "Total Contracts Quantity" information through Dashboard Card
 
 Pre-requisite:
 Valid user id and password, Business Partner assigned to your user
