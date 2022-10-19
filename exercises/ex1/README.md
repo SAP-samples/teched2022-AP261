@@ -64,7 +64,9 @@ Valid user id and password, Business Partner assigned to your user
 
 5. Check the "PAID" status to confirm if the payments have been made or are still pending.
 6. Click on a settlement to navigate to details page.
-7. Review Settlement details including amounts, fee, pricing, expenses, optionality, payment split(if any) information.
+<br>![](/exercises/ex1/images/Ex_1_4_3_Image.png)
+8. Review Settlement details including amounts, fee, pricing, expenses, optionality, payment split(if any) information.
+<br>![](/exercises/ex1/images/Ex_1_4_4_Image.png)
 ## Summary
 
 You've now reviewd your contracts with the Agri Company.
