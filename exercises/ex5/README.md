@@ -44,3 +44,8 @@ https://teched2022-ap261.integrationsuite-it-aiat001.cfapps.us10.hana.ondemand.c
 	
 	
 	* Configure the URL for AOP Contracts in the HTTP adaptor:  Update Contract to AOP
+
+Summary
+You've now explored the event driven integration architecture of SAP Agricultural Origination Portal.
+
+Continue to - Exercise 6
