@@ -1,4 +1,4 @@
-# Exercise 3 - Available Bids
+# Exercise 3 - Origination Dashboard - Available Bids
 
 In this exercise, As a Farmer/Grower, I want to review the available bids published by Agri Company for the commodity I trade in. I would be interested to get into a contract with Agri company if the prices are favourable.
 
