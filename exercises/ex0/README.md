@@ -29,7 +29,7 @@ your user at this point. Please inform host after this step so that he/she will 
 <br>![](/exercises/ex0/images/Image4.png)
 
 6. Click on "Origination Dashboard" tile. This will take you to the dashboard as shown below:
-<br>![](/exercises/ex0/images/Image5.png)
+<br>![](/exercises/ex0/images/Image6.png)
 
 7. You should be able to view the following cards:
      a) Total Contracts Quantity
