@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# AP261 - SAP Agricultural Origination Portal: Industry Cloud
 
 ## Description
 
@@ -17,19 +17,19 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
+- [Exercise 1 - Origination Dashboard](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-- [Exercise 3 - First Exercise Description](exercises/ex4/)
+- [Exercise 3 - Convert Bid to Contract](exercises/ex4/)
     - [Exercise 3.1 - Exercise 3 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 3 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 4 - Second Exercise Description](exercises/ex4/)
+- [Exercise 4 - Pricing Futures](exercises/ex4/)
     - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-  
+
 **OR** Link to the Tutorial Navigator for example...
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
