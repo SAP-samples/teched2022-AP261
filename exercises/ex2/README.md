@@ -1,4 +1,4 @@
-# Exercise 2 - Storage
+# Exercise 2 - Origination Dashboard - View Storage
 
 In this exercise, As a Farmer/Grower, I have stored the produce in Agri Company's warehouse. Now i want to review the "Total Quantity in Storage by Commodity"
 
@@ -20,6 +20,6 @@ In this exercise, As a Farmer/Grower, I have stored the produce in Agri Company'
 
 ## Summary
 
-You've now ...
+You've now analysed the quantities in storage with the Agri Companies
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md) to explore the "Available Bids".
