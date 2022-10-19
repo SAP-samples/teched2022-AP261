@@ -17,18 +17,23 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - Origination Portal - Contracts](exercises/ex1/)
-    - [Exercise 1.1 - Review "Total Contracts QUantity" information through Dashboard Card](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Review "Total Open Contracts Quantity by Commodity" information through Dashboard Card](exercises/ex1#exercise-12-sub-exercise-2-description)
-    - [Exercise 1.3 - Review Contract Monitoring Cards](exercises/ex1#exercise-12-sub-exercise-3-description)
+- [Exercise 1 - Origination Portal - View Contracts](exercises/ex1/)
+    - [Exercise 1.1 - Review "Total Contracts Quantity" information through Dashboard](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.2 - Review "Total Open Contracts Quantity by Commodity" information through Dashboard](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.3 - Review Contract Monitoring Cards](exercises/ex1#exercise-13-sub-exercise-3-description)
+    - [Exercise 1.4 - Review Contract Monitoring - Settled Quantities](exercises/ex1#exercise-14-sub-exercise-4-description)
+    
 - [Exercise 2 - Origination Portal - Storage Quantities](exercises/ex4/)
-    - [Exercise 3.1 - Exercise 3 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 3 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)- [Exercise 3 - Convert Bid to Contract](exercises/ex4/)
-    - [Exercise 3.1 - Exercise 3 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 3 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 4 - Pricing Futures](exercises/ex4/)
-    - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.1 - Review Storage/Comingled quantity information through Dashboard](exercises/ex2#exercise-21-sub-exercise-1-description)
+
+- [Exercise 3 - Origination Dashboard - Available Bids](exercises/ex4/)
+    - [Exercise 3.1 - Review "Available Bids"](exercises/ex1#exercise-31-sub-exercise-1-description)
+
+- [Exercise 4 - Origination Portal - Price Futures for Contracts](exercises/ex4/)
+    - [Exercise 4.1 - Price Futures component of the contract](exercises/ex4#exercise-41-sub-exercise-1-description)
+    - [Exercise 4.2 - Review Contract Monitoring Cards](exercises/ex4#exercise-42-sub-exercise-2-description)
+
+- [Exercise 6 - Explore Agricultural Origination Portal Public API's](exercises/ex6/)
 
 **OR** Link to the Tutorial Navigator for example...
 
