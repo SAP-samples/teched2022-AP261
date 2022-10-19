@@ -1,7 +1,8 @@
 # Exercise 1 - Origination Portal - View Contracts
 
-In this exercise, 
-As a Farmer/Grower, I have delivered 5 contracts of Soyabeans to the Agri Company of which few of them are partially delivered and settled, some are not fully priced and some are yet to be paid. I want to track my obligations and payments. Let's dive into Agricultural Origination Portal to visualize the journey. Following Origination Dashboard cards will help to view the required details:
+ 
+As a Farmer/Grower, you have delivered 5 contracts of Soyabeans to the Agri Company of which few of are partially delivered and settled, some are not fully priced and some are yet to be paid. You want to track your obligations and payments. Dive into Agricultural Origination Portal to visualize this journey. Following Origination Dashboard cards will help to view the required details:
+
 1. Total Contracts Quantity
 2. Total Contracts Open Quantity by Commodity
 3. Contract Monitoring – Priced Quantity
@@ -15,7 +16,7 @@ Pre-requisite:
 Valid user id and password, Business Partner assigned to your user
 
 1. Review "Total Contracts Quantity". You should be able to view "Open", "Delivered and Unsettled", "Settled and Unpaid" and "Paid" quantity for each commodity
-<br>![](/exercises/ex1/images/Ex_1_1_Image.png)
+<br>![](/exercises/ex1/images/Ex_1_1_1_Image.png)
 
 2. Filter based on contract number and check the quantities for each of the types.
 3. Click on the card header to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
@@ -25,6 +26,7 @@ Valid user id and password, Business Partner assigned to your user
 5. Filters on the Dashboard should be passed on the "Manage Contracts" application
 6. Additionally, status filter should be defaulted to "Delivered and Unsettled"
 7. All the contracts with "Delivered and Unsettled" quantity for Business Partner assigned to your user.
+<br>![](/exercises/ex1/images/Ex_1_1_2_Image.png)
 
 
 
@@ -64,7 +66,7 @@ Valid user id and password, Business Partner assigned to your user
 7. Review Settlemnt details including amounts, fee, pricing, expenses, optionality, payment split(if any) information.
 ## Summary
 
-You've now ...
+You've now reviewd your contracts with the Agri Company.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md) to discosver the Storages with Agri Company.
 
