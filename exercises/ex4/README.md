@@ -9,16 +9,21 @@ In this exercise, As a Farmer/Grower, I would want to price the Futures componen
 <br>![](/exercises/ex1/images/Ex_4_2_Image.png)
 
 2. Go to the pricing tab
+<br>![](/exercises/ex1/images/Ex_4_2_1_Image.png)
 3. Click on "Price Futures" button.
-4. A pop-up will open with the unpriced futures quantity information. Price is fetched from the market(Source being ACM S/4HANA).There may be one or more pricing lots on the screen.
-5. Futures price should already appear for the lot and quantity should be editable. Enter the quantity for which you intend to establish futures price. Perform this step for a pricing lot which already has Basis priced.
-6. Click on "Save".
-7. You should be redirected to the Contract item details page.
-8. Navigate back to "Manage Contracts" list page and search the same contract.
-9. Navigate to the details page and you should see the pricing lot with FLAT price for the quantity you just priced. 
+<br>![](/exercises/ex1/images/Ex_4_2_2_Image.png)
+5. A pop-up will open with the unpriced futures quantity information. Price is fetched from the market(Source being ACM S/4HANA).There may be one or more pricing lots on the screen.
+<br>![](/exercises/ex1/images/Ex_4_2_3_Image.png)
+7. Futures price should already appear for the lot and quantity should be editable. Enter the quantity for which you intend to establish futures price. Perform this step for a pricing lot which already has Basis priced.
+<br>![](/exercises/ex1/images/Ex_4_2_4_Image.png)
+9. Click on "Save".
+10. You should be redirected to the Contract item details page.
+11. Navigate back to "Manage Contracts" list page and search the same contract.
+12. Navigate to the details page and you should see the pricing lot with FLAT price for the quantity you just priced. 
+<br>![](/exercises/ex1/images/Ex_4_2_5_Image.png)
 
 
-## Exercise 4.3 Review Contract Monitoring Cards
+## Exercise 4.2 Review Contract Monitoring Cards
 
 1. From the Launchpad, navigate to Origination Dashboard and review Contract Monitoring card - Priced Quantity.
 <br>![](/exercises/ex1/images/Ex_4_3_Image.png)
