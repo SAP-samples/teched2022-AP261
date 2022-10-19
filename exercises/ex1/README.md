@@ -52,11 +52,13 @@ Valid user id and password, Business Partner assigned to your user
 ## Exercise 1.4 Review Contract Monitoring - Settled Quantities
 
 1. Contract Monitoring card, Settled Quantity
-<br>![](/exercises/ex1/images/Ex_1_4_Image.png)
+<br>![](/exercises/ex1/images/Ex_1_4_1_Image.snagproj)
 
 2. Click on the card header, you should be redirected to "Manage Settlements" app.
 3. Unit of Measure should get defaulted from the Dashboard.
 4. All the settlements should get displayed. 
+<br>![](/exercises/ex1/images/Ex_1_4_2_Image.snagproj)
+
 5. Check the "PAID" status to confirm if the payments have been made or are still pending.
 6. Click on a settlement to navigate to details page.
 7. Review Settlemnt details including amounts, fee, pricing, expenses, optionality, payment split(if any) information.
