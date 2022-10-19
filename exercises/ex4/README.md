@@ -1,21 +1,6 @@
 # Exercise 4 - Origination Portal - Price Futures for Contracts
 
-In this exercise, we will review the:
-1. Contract Monitoring – Priced Quantity
-2. Price Futures component of Contracts
-
-
-
-## Exercise 4.1 Review Priced Quantity and Price the Futures for unpriced quantity
-
-
-1. Contract Monitoring – Priced Quantity. You should be able to view FLAT Priced quantity of the contract versus total contract item quantity.
-<br>![](/exercises/ex1/images/Ex_4_1_Image.png)
-
-2. Filter based on contract number and check the priced quantity.
-3. Click on the contract to navigate to "Manage Contracts" app to verify the quantity displayed on Dashboard
-4. Contract filter should be auto applied in the app. 
-
+In this exercise, As a Farmer/Grower, I would want to price the Futures component of the contract based on the market prices.
 
 
 ## Exercise 4.2 Price Futures component of the contract
@@ -24,13 +9,13 @@ In this exercise, we will review the:
 <br>![](/exercises/ex1/images/Ex_4_2_Image.png)
 
 2. Go to the pricing tab
-3. CLick on "Price Futures" button.
-4. A pop-up will open with teh unpriced futures quantity information. There may be one or more pricing lots and one with $ number for unpriced quantity Pricing lot.
-5. Futures price should already appear in the lot and quantity is editable. Please enter the quantity for which you intend to establish futures price. Perform this step for a $ pricing lot and one which has Basis price.
+3. Click on "Price Futures" button.
+4. A pop-up will open with the unpriced futures quantity information. Price is fetched from the market(Source being ACM S/4HANA).There may be one or more pricing lots on the screen.
+5. Futures price should already appear for the lot and quantity should be editable. Enter the quantity for which you intend to establish futures price. Perform this step for a pricing lot which already has Basis priced.
 6. Click on "Save".
-7. You should be redirected to the Contract item details page and there qill be $ pricing lots which you just requested.
+7. You should be redirected to the Contract item details page.
 8. Navigate back to "Manage Contracts" list page and search the same contract.
-9. Navigate to the details page and you should see the new pricing lots with actual pricing lot numbers synched back from S/4HANA ACM.
+9. Navigate to the details page and you should see the pricing lot with FLAT price for the quantity you just priced. 
 
 
 ## Exercise 4.3 Review Contract Monitoring Cards
