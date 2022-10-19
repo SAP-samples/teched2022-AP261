@@ -28,7 +28,7 @@ Valid user id and password, Business Partner assigned to your user
 7. All the contracts with "Delivered and Unsettled" quantity for Business Partner assigned to your user.
 <br>![](/exercises/ex1/images/Ex_1_1_2_Image.png)
 
-8. Click on the contract with "Delivered and Unsettled" quantity. You can view the related deliveries.
+8. Select the contract with "Delivered and Unsettled" quantity and click on "View Deliveries" button.
 <br>![](/exercises/ex1/images/Ex_1_1_3_Image.png)
 
 9. Click on the delivery and you will be navigated to "Manage Delivery Assignments" app with Delivery details.
