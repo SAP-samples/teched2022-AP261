@@ -26,7 +26,7 @@ In this exercise, As a Farmer/Grower, I would want to price the Futures componen
 ## Exercise 4.2 Review Contract Monitoring Cards
 
 1. From the Launchpad, navigate to Origination Dashboard and review Contract Monitoring card - Priced Quantity.
-<br>![](/exercises/ex1/images/Ex_4_3_Image.png)
+<br>![](/exercises/ex4/images/Ex_4_3_Image.png)
 
 2. Filter based on Contract Number and check the Priced Quantity card
 3. Priced Quantity Card should show the Flat Priced quantity against the total contract item quantity. Pricing lot quantity where basis price existed and futures was requested in previous excercise should be shown as FLAT priced here.
