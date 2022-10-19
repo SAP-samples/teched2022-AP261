@@ -3,7 +3,39 @@ SAP provides seamless integration between SAP Agricultural Origination Portal an
 During this exercise, the following aspects will be explored in SAP Cloud Integration Suite:
 
 * Capabilities of SAP Cloud Integration Suite.
+* Explore Event Driven Architecture via SAP Event Mesh
 * Published integration packages for integration between SAP Agricultural Origination Portal and SAP Agricultural Contract Management for SAP S/4HANA.
-* XSLT Mapping
-* Groovy Script
-* Integration monitoring for deployed integration flows
+
+
+1. Log into SAP Event mesh using the below URL and navigate to message client:
+https://teched2022-ap261.enterprise-messaging.cfapps.us10.hana.ondemand.com/#/message_clients
+![image](https://user-images.githubusercontent.com/69630878/196749084-31414546-0a62-4d14-b66d-d64fa081a9b0.png)
+image 1
+image 2
+
+2. Explore the following queue and notice the name of the topic it subscribes to
+   * Onboarding Queue
+   
+image 3
+
+3. Login to the SAP Cloud Integration Suite using below URL and navigate to Design
+https://teched2022-ap261.integrationsuite-it-aiat001.cfapps.us10.hana.ondemand.com/shell/design
+
+image3
+
+4. Navigate to the package: SAP Agricultural Contract Management for SAP S/4HANA Transactional Data Integration with SAP Agricultural Origination Portal and open integration flow: Replicate Transactional Data for Business Partners from SAP Agricultural Contract Management for SAP S4HANA to JMS Queue.
+	* Open the AMQP adaptor in the start of the flow and check the details.
+  * Observe the name of the queue.
+  
+  
+[OPTIONAL]
+5. Create and Deploy a new flow to update contracts data from ACM S/4HANA to AOP:
+	* Create a new package: ID_ACM_to_AOP
+	
+	* Copy the iflow from the existing flow: Sample_Contracts_Update in package Sample_ACM_to_AOP to your package created in previous step. Name the iflow as     ID_ACM_to_AOP.
+
+	
+	* Configure the URL for ACM Contracts in the HTTP adaptor: Get Contract from S/4HANA 
+	
+	
+	* Configure the URL for AOP Contracts in the HTTP adaptor:  Update Contract to AOP
