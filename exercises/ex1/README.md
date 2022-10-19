@@ -24,7 +24,7 @@ Valid user id and password, Business Partner assigned to your user
 6. Click on the "Delivered and Unsettled" quantity bar and navigate to "Manage Contracts" application
 5. Filters on the Dashboard should be passed on the "Manage Contracts" application
 6. Additionally, status filter should be defaulted to "Delivered and Unsettled"
-7. All the contracts with "Open" quantity for Business Partner assigned to your user.
+7. All the contracts with "Delivered and Unsettled" quantity for Business Partner assigned to your user.
 
 
 
@@ -52,12 +52,14 @@ Valid user id and password, Business Partner assigned to your user
 ## Exercise 1.4 Review Contract Monitoring - Settled Quantities
 
 1. Contract Monitoring card, Settled Quantity
-<br>![](/exercises/ex1/images/Ex_1_3_Image.png)
+<br>![](/exercises/ex1/images/Ex_1_4_Image.png)
 
-2. Filter based on Contract Number and check the settled quantity.
-3. Priced Quantity Card should show the Flat Priced quantity against the total contract item quantity
-4. Delivered Quantity Card should show the Delivered quantity against the total contract item quantity
-5. Settled Quantity Card should show the Settled quantity against the total contract item quantity.
+2. Click on the card header, you should be redirected to "Manage Settlements" app.
+3. Unit of Measure should get defaulted from the Dashboard.
+4. All the settlements should get displayed. 
+5. Check the "PAID" status to confirm if the payments have been made or are still pending.
+6. Click on a settlement to navigate to details page.
+7. Review Settlemnt details including amounts, fee, pricing, expenses, optionality, payment split(if any) information.
 ## Summary
 
 You've now ...
