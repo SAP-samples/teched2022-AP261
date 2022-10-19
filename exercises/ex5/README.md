@@ -9,23 +9,27 @@ During this exercise, the following aspects will be explored in SAP Cloud Integr
 
 1. Log into SAP Event mesh using the below URL and navigate to message client:
 https://teched2022-ap261.enterprise-messaging.cfapps.us10.hana.ondemand.com/#/message_clients
-![image](https://user-images.githubusercontent.com/69630878/196749084-31414546-0a62-4d14-b66d-d64fa081a9b0.png)
-image 1
-image 2
+<br>![](/exercises/ex5/images/image1.png)
+<br>![](/exercises/ex5/images/image2.png)
 
 2. Explore the following queue and notice the name of the topic it subscribes to
    * Onboarding Queue
    
-image 3
+<br>![](/exercises/ex5/images/image3.png)
 
 3. Login to the SAP Cloud Integration Suite using below URL and navigate to Design
 https://teched2022-ap261.integrationsuite-it-aiat001.cfapps.us10.hana.ondemand.com/shell/design
 
-image3
+<br>![](/exercises/ex5/images/image4.png)
 
 4. Navigate to the package: SAP Agricultural Contract Management for SAP S/4HANA Transactional Data Integration with SAP Agricultural Origination Portal and open integration flow: Replicate Transactional Data for Business Partners from SAP Agricultural Contract Management for SAP S4HANA to JMS Queue.
 	* Open the AMQP adaptor in the start of the flow and check the details.
   * Observe the name of the queue.
+
+<br>![](/exercises/ex5/images/image5.png)
+<br>![](/exercises/ex5/images/image6.png)
+<br>![](/exercises/ex5/images/image7.png)
+<br>![](/exercises/ex5/images/image8.png)
   
   
 [OPTIONAL]
