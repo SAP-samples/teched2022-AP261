@@ -26,10 +26,10 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 1.3 - Review Contract Monitoring Cards](exercises/ex1#exercise-13-sub-exercise-3-description)
     - [Exercise 1.4 - Review Contract Monitoring - Settled Quantities](exercises/ex1#exercise-14-sub-exercise-4-description)
     
-- [Exercise 2 - Origination Portal - Storage Quantities](exercises/ex4/)
+- [Exercise 2 - Origination Portal - Storage Quantities](exercises/ex2/)
     - [Exercise 2.1 - Review Storage/Comingled quantity information through Dashboard](exercises/ex2#exercise-21-sub-exercise-1-description)
 
-- [Exercise 3 - Origination Dashboard - Available Bids](exercises/ex4/)
+- [Exercise 3 - Origination Dashboard - Available Bids](exercises/ex3/)
     - [Exercise 3.1 - Review "Available Bids"](exercises/ex1#exercise-31-sub-exercise-1-description)
 
 - [Exercise 4 - Origination Portal - Price Futures for Contracts](exercises/ex4/)
