@@ -36,4 +36,4 @@ In this exercise, As a Farmer/Grower, I would want to price the Futures componen
 
 You've now established Futures price for Contracts as a Farmer.
 
-Continue to - [Exercise 5 - Exercise 5 Description](../ex2/README.md) to explore the Integration Content for Agricultural Origination Portal.
+Continue to - [Exercise 5 - Exercise 5 Description](../ex5/README.md) to explore the Integration Content for Agricultural Origination Portal.
