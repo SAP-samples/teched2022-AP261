@@ -28,7 +28,7 @@ During this exercise, you will explore the following aspects.
 6. Repeat step number 4, 5 for other API's.
 
 
-
+Continue to - Exercise 7 https://github.com/SAP-samples/teched2022-AP261/tree/main/exercises/ex7 to explore the SAP Agricultural Origination Portal Business Rules.
 
 
 
