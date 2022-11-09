@@ -40,13 +40,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Exercise 6 - Explore Agricultural Origination Portal Public API's](exercises/ex6/)
 
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Exercise 7 - Origination Portal - Business Rules](exercises/ex7/)
 
 ## How to obtain support
 
