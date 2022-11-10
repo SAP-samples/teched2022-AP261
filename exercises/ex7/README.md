@@ -21,4 +21,6 @@ During this exercise, you will explore the following aspects.
 4. Navigate to rule 'Bid Single Multiple Contract Creation Rule'. View and configure the rule as per the assigned business partner and commodity.
 <br>![](/exercises/ex7/images/image4.png)
 
-5. Observe the behavior in the Bids application.
+5. Make sure you validate, actiavte and deploy the corresponding rule after after making any changes in the decision table.
+
+6. Observe the behavior in the Bids application.
