@@ -32,20 +32,6 @@ https://teched2022-ap261.integrationsuite-it-aiat001.cfapps.us10.hana.ondemand.c
 <br>![](/exercises/ex5/images/image6.png)
 <br>![](/exercises/ex5/images/image7.png)
 <br>![](/exercises/ex5/images/image8.png)
-  
-  
-[OPTIONAL]
-5. Create and Deploy a new flow to update contracts data from ACM S/4HANA to AOP:
-
-	* Create a new package: ID_ACM_to_AOP
-	
-	* Copy the iflow from the existing flow: Sample_Contracts_Update in package Sample_ACM_to_AOP to your package created in previous step. Name the 	   iflow as ID_ACM_to_AOP.
-
-	
-	* Configure the URL for ACM Contracts in the HTTP adaptor: Get Contract from S/4HANA 
-	
-	
-	* Configure the URL for AOP Contracts in the HTTP adaptor:  Update Contract to AOP
 
 Summary
 You've now explored the event driven integration architecture of SAP Agricultural Origination Portal.
