@@ -19,6 +19,9 @@ In this exercise, you will logon to the SAP Agricultural Origination Portal.
 5.   On successfull logon, you will be redirected to the AGOP launchpad and you will all the tiles as shown in the image below.
 <br>![](/exercises/ex0/images/Image3.png)
 
+https://teched2022-ap261.agricultural-origination-portal.cfapps.us10.hana.ondemand.com
+
+
 ```
 Note that the reason for showing zero's in all the tiles is due to the fact that there is no business partner mapped to 
 your user at this point. Please inform host after this step so that he/she will assign the business pather to you user.
