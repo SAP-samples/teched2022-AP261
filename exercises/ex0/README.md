@@ -19,7 +19,7 @@ In this exercise, you will logon to the SAP Agricultural Origination Portal.
 5.   On successfull logon, you will be redirected to the AGOP launchpad and you will all the tiles as shown in the image below.
 <br>![](/exercises/ex0/images/Image3.png)
 
-https://teched2022-ap261.agricultural-origination-portal.cfapps.us10.hana.ondemand.com
+Application URL : https://teched2022-ap261.agricultural-origination-portal.cfapps.us10.hana.ondemand.com
 
 
 ```
