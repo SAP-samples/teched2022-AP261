@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AP261)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AP261)
+
 # AP261 - SAP Agricultural Origination Portal: Industry Cloud
 
 ## Description
